@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calculadora_tutoria_mananas</string>
+    <string name="calculadora_title">CALCULADORA</string>
+    <string name="input_number_1">Ingrese Número 1:</string>
+    <string name="input_number_2">Ingrese Número 2:</string>
+    <string name="number_1">0</string>
+    <string name="number_2">0</string>
+    <string name="sum">Sumar</string>
+    <string name="subtract">Restar</string>
+    <string name="multiply">Multiplicar</string>
+    <string name="divide">Dividir</string>
+    <string name="result">Resultado:</string>
+</resources>
